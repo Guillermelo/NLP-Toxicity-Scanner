@@ -1,4 +1,4 @@
-# Toxicity Detector for Reddit and Discord
+# Toxicity Detector for Reddit
 
 ## Overview
 This project is an AI-powered system that detects toxic language in Reddit comments and Discord messages. It leverages Natural Language Processing (NLP) to classify messages based on their toxicity levels, helping moderators maintain healthier online discussions.
