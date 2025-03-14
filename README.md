@@ -27,7 +27,7 @@ pip install praw nltk transformers torch perspective-api-client matplotlib seabo
 
 
 ## How It Works
-1. **Data Extraction**: Retrieves comments/messages from Reddit or Discord.
+1. **Data Extraction**: Retrieves comments/messages from Reddit.
 2. **Preprocessing**: Cleans text by removing stopwords, punctuation, and unnecessary characters.
 3. **Toxicity Analysis**: Classifies messages using an NLP model.
 4. **Visualization**: Generates insights from the data.
