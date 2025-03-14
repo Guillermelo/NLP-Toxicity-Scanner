@@ -6,7 +6,7 @@ This project is an AI-powered system that detects toxic language in Reddit comme
 ## Features
 - **Reddit Integration**: Fetches real-time comments using `PRAW`.
 - **Text Preprocessing**: Cleans and prepares text for analysis using `NLTK`.
-- **Toxicity Analysis**: Utilizes `Perspective API` or `Toxic-BERT` for classification.
+- **Toxicity Analysis**: Utilizes `Toxic-BERT` for classification.
 - **Visualization & Reporting**: Generates toxicity distribution charts using `Matplotlib` and `Seaborn`.
 
 ## Installation
